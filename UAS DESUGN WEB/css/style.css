@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header img {
+  border-radius: 50%;
+}
+.btn-home {
+  margin-top: 100px;
+}
+.gradient-navbar {
+  background: linear-gradient(90deg, #6f42c1, #e83e8c);
+}
+.carousel-item img {
+  height: auto;
+  object-fit: cover;
+}
